@@ -7,3 +7,6 @@ From website: https://www.uroubc.com/rex/
 The Research EXperience program (REX) exposes undergraduates to the research world. By connecting undergraduate students to graduate students or postdoctoral fellows, 
 students with no prior experience work on a theoretical research project of their choice. REX allows students to learn from experienced mentors, 
 develop their research skills, and present at one of BC’s largest undergraduate research conferences, the Multidisciplinary Undergraduate Research Conference (MURC).
+
+
+The project I chose (along with 2 other first year engineering students) investigated the ability of using intelligent control to simulate multiple UAVs carrying a heavy load. 
